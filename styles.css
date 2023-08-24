@@ -1,0 +1,33 @@
+body{
+	background-color: goldenrod;
+	font-family: cursive;
+}
+.Wraper{
+	position: absolute;
+	top: 40%;
+	left: 25%;
+	text-align: center;
+}
+h1{
+	font-size: 48px;
+	text-transform: uppercase;
+	margin-bottom: 36px;
+}
+#seconds,#tens{
+	font-size: 40px;
+}
+button{
+	background-color: skyblue;
+	color: white;
+	border: 0.5px solid white;
+	cursor: pointer;
+	font-size: 20px;
+	padding: 18px 10px;
+	width: 180px;
+	margin: 10px;
+	outline: none;
+}
+button:hover{
+	background-color: #16db54;
+	font-size: 30px;
+}
